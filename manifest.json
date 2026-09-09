@@ -15,8 +15,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E6%B2%88%E7%9F%A5%E5%BE%AE.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2560576,
-      "sha256": "fe7b11746a789ee53434c301c4a5c5279117bb479fb8701561c89e6716c45c22"
+      "bytes": 2481255,
+      "sha256": "efa43fe47d97bbeca38e639635ea106ff6c32d6e7d1351bd6bac5569d73eaf3f"
     },
     {
       "name": "安娜贝尔·特里亚贝尔",
@@ -808,8 +808,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E5%BA%87%E6%8A%A4%E6%89%80%E8%9C%B7%E7%BC%A9.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2293303,
-      "sha256": "7b3d62799368cacd4ad74be9ee3104490f40c2befb16568a7e65549a3d6080af"
+      "bytes": 2303819,
+      "sha256": "8cf4e3297142f7faac098fc085c0ed96b6826c76310bf01af690b8d7a17dbeca"
     },
     {
       "name": "沈知微",
@@ -821,8 +821,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E4%BC%B8%E6%89%8B%E6%B1%82%E5%8A%A9.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2147333,
-      "sha256": "9b7d897a5108563736636f9e433164b60bdc145c0daa97ed5971763dc363f8b7"
+      "bytes": 2266343,
+      "sha256": "423f01f668938632668237d3171dd2ec8c25453cc58474402bcb9734f504a5a6"
     },
     {
       "name": "沈知微",
@@ -834,8 +834,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E5%AE%B4%E4%BC%9A%E7%8B%AC%E5%A4%84.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2175197,
-      "sha256": "7b984ad1253fa48a4c8fd3dafa93b0435949202cc92a2d6db169e3d35ef945b2"
+      "bytes": 2154214,
+      "sha256": "f0d931e068266623580778fa7496f1b6d4edda11b802ff2d67e0337a0a9ccc4d"
     }
   ]
 }
