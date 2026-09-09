@@ -1,6 +1,6 @@
 # 芝加哥夜幕图片库
 
-共 64 张图片：61 张人物立绘、3 张沈知微情境图。图片文件名和路径均不含版本号。
+共 65 张图片：61 张人物立绘、4 张沈知微情境图。图片文件名和路径均不含版本号。
 
 [机器可读清单](manifest.json)记录图片直链、尺寸、大小与 SHA256。原始 PNG 未压缩、未重绘。
 
@@ -77,6 +77,7 @@
 | 沈知微 | 庇护所蜷缩 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E5%BA%87%E6%8A%A4%E6%89%80%E8%9C%B7%E7%BC%A9.png) |
 | 沈知微 | 伸手求助 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E4%BC%B8%E6%89%8B%E6%B1%82%E5%8A%A9.png) |
 | 沈知微 | 宴会独处 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E5%AE%B4%E4%BC%9A%E7%8B%AC%E5%A4%84.png) |
+| 沈知微 | 教堂微笑 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E6%95%99%E5%A0%82%E5%BE%AE%E7%AC%91.png) |
 
 ## 使用说明
 

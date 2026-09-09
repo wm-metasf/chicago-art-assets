@@ -1,8 +1,8 @@
 {
   "updated": "2026-09-08",
-  "image_count": 64,
+  "image_count": 65,
   "portrait_count": 61,
-  "scene_count": 3,
+  "scene_count": 4,
   "base_url": "https://wm-metasf.github.io/chicago-art-assets/",
   "images": [
     {
@@ -836,6 +836,19 @@
       "height": 1536,
       "bytes": 2154214,
       "sha256": "f0d931e068266623580778fa7496f1b6d4edda11b802ff2d67e0337a0a9ccc4d"
+    },
+    {
+      "name": "沈知微",
+      "uid": null,
+      "kind": "scene",
+      "title": "教堂微笑",
+      "path": "scenes/沈知微_教堂微笑.png",
+      "url": "https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E6%95%99%E5%A0%82%E5%BE%AE%E7%AC%91.png",
+      "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E6%95%99%E5%A0%82%E5%BE%AE%E7%AC%91.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2201331,
+      "sha256": "f248a3acf627609cf98a729dd6c731451e267bb729593d1a55e77cb3a1b354f9"
     }
   ]
 }
