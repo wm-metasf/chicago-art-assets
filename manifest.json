@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-12",
   "image_count": 65,
   "portrait_count": 61,
   "scene_count": 4,
@@ -41,8 +41,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E9%98%BF%E5%BE%B7%E9%87%8C%E5%AE%89%C2%B7%E9%BB%98%E7%91%9F.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2387115,
-      "sha256": "097a06aa65d641708a5c94251d25edd62bacc01439d496e198555a11d535464b"
+      "bytes": 2338076,
+      "sha256": "8f7793f69969b33ed71fd66a3d3347a03e5de3342e52dba14b552f0904bd0efd"
     },
     {
       "name": "艾芙琳·惠特莫尔",
