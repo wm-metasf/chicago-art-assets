@@ -28,8 +28,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E5%AE%89%E5%A8%9C%E8%B4%9D%E5%B0%94%C2%B7%E7%89%B9%E9%87%8C%E4%BA%9A%E8%B4%9D%E5%B0%94.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2379982,
-      "sha256": "043c01505b7d29586102b94f208d9c76cd9ec063c56d3e46af5558d700ab4d5a"
+      "bytes": 2308048,
+      "sha256": "bbf1d34027da0c4b84c1cbf066baa78ce18b7af987bee751496e45d9d51f20be"
     },
     {
       "name": "阿德里安·默瑟",
@@ -54,8 +54,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E8%89%BE%E8%8A%99%E7%90%B3%C2%B7%E6%83%A0%E7%89%B9%E8%8E%AB%E5%B0%94.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2371992,
-      "sha256": "fd29495e47c45cd859fc25df8f5ece30ab34614cd5f53663ff920a17d2520ed4"
+      "bytes": 2311438,
+      "sha256": "39f43e05570f18d5fbda607cdb4c84115d62bd75c91e6f3bee36c52937e5ce71"
     },
     {
       "name": "伊迪丝·博比安",
@@ -80,8 +80,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E9%99%88%E4%BB%A5%E5%AE%81.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2056416,
-      "sha256": "dcb2f42e06b95492a82de8585cb81a4bd2b4b0a0866f6d0c3549bb44119486db"
+      "bytes": 1998125,
+      "sha256": "59c9633971a990da6f4b379df877c25fdeeb82bfa513cbe372a20d82ab8a9d0d"
     },
     {
       "name": "朱利安·哈罗",
@@ -93,8 +93,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E6%9C%B1%E5%88%A9%E5%AE%89%C2%B7%E5%93%88%E7%BD%97.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2376674,
-      "sha256": "105260606acebefd3bcd1be375ee29e1008732c96b79258894dfcc350f13bee7"
+      "bytes": 2380223,
+      "sha256": "f98fc05f3627ab33e44bbaab9f609d317121e5d07186b6def57604a774f53198"
     },
     {
       "name": "诺拉·贝尔",
@@ -132,8 +132,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E8%B5%9B%E6%8B%89%E6%96%AF%C2%B7%E7%BB%B4%E6%81%A9.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2133369,
-      "sha256": "0980d8afb9474f7443989f3c3226da8d7521026f2d7bbbde825304a0be1b9a46"
+      "bytes": 2176257,
+      "sha256": "06d7c7c0927558dc6cf7c665fae2040b3481a9c6ea747b7c7619eef76508c999"
     },
     {
       "name": "玛蒂尔德·塞韦林",
@@ -145,8 +145,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E7%8E%9B%E8%92%82%E5%B0%94%E5%BE%B7%C2%B7%E5%A1%9E%E9%9F%A6%E6%9E%97.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2413440,
-      "sha256": "56d2d200cb1577733b390dbb249f38ffb94eb50b783253e0997826c342d5bc0d"
+      "bytes": 2468507,
+      "sha256": "1eb4d15abb03bea5335e9c1fde84e7d9efc50e7d39f894046e53a6b3dfc0df5d"
     },
     {
       "name": "瓦莱里娅·莫罗",
@@ -158,8 +158,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E7%93%A6%E8%8E%B1%E9%87%8C%E5%A8%85%C2%B7%E8%8E%AB%E7%BD%97.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2424434,
-      "sha256": "ff85788487b0461f17e5d50990a8e32fd1e907b20ac924a8a018bb8633b76b6e"
+      "bytes": 2441658,
+      "sha256": "414104f3ffd89122a306136e02bc8423d7c3477307f7adfd33918437f6e6706e"
     },
     {
       "name": "克莱尔·哈罗",
@@ -171,8 +171,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E5%85%8B%E8%8E%B1%E5%B0%94%C2%B7%E5%93%88%E7%BD%97.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2413909,
-      "sha256": "a20eb26b3996e5e5b279adeba89b4f092cfb5467ac4c5414d04d89d80ab6dd67"
+      "bytes": 2348322,
+      "sha256": "15bd962817cd6dfdfdb609024ee00943b7eaf4a11da73499cac4562e47554fcd"
     },
     {
       "name": "玛拉·奎因",
@@ -184,8 +184,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E7%8E%9B%E6%8B%89%C2%B7%E5%A5%8E%E5%9B%A0.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2506730,
-      "sha256": "c8da2d300241fb291b91ea6f19aa755e1ce25d6fccfaab7d6d768cc096911748"
+      "bytes": 2433320,
+      "sha256": "3c18c262014a497ff9e2adafb0182c917faaea0296b9547ae1d39ceeb0714092"
     },
     {
       "name": "山姆·派克",
@@ -223,8 +223,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E5%87%AF%E6%96%87%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2382519,
-      "sha256": "c4df390127baa61af307bc61b4b4697a46389e5f1f25cc529d3e89e6f275a431"
+      "bytes": 2379456,
+      "sha256": "f809a7af541e9cc7883671ba30a5ee65effb11cae91218e85c4273e66aec45c4"
     },
     {
       "name": "霍雷肖·巴拉德",
@@ -236,8 +236,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E9%9C%8D%E9%9B%B7%E8%82%96%C2%B7%E5%B7%B4%E6%8B%89%E5%BE%B7.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2109551,
-      "sha256": "ac4ac000efe98de07b776d175e967ad51e0a5aef36ff64ecc8b0b6977c693166"
+      "bytes": 2108141,
+      "sha256": "0145972bdbb4d86c1e91928d9cbbf1a7f7d7b52100805522487500c511140867"
     },
     {
       "name": "艾伦·索弗林",
@@ -288,8 +288,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E8%BE%BE%E7%B1%B3%E5%AE%89.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2448455,
-      "sha256": "468c4d495264a8dc88a243c03b0495c25124b8a17f4a9971a3bf0d98a8a57ba7"
+      "bytes": 2376389,
+      "sha256": "cfcdbcacdebe0786d0c01b8e80ec427c2e33552156120dda69457c6cdcf8e5cd"
     },
     {
       "name": "克里提亚斯",
@@ -392,8 +392,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%C2%B7%E6%9D%9C%E8%90%A8%E5%B8%83%E5%B0%94.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2232760,
-      "sha256": "0830cee240d5cf14dd1910589cea10431d2d277dc94038d50a962e78e1d445b1"
+      "bytes": 2210414,
+      "sha256": "a34e2804a46fb2de21cda4bd217abcdd2961fb72de21a36af159bb0902eced11"
     },
     {
       "name": "埃里克托",
@@ -431,8 +431,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E6%9D%B0%E6%A3%AE%C2%B7%E7%BA%BD%E4%BC%AF%E9%87%8C.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2353199,
-      "sha256": "beae631f5039081135ec7fa134615e12a07d27bef20a6f1f3736eac85e72a8a2"
+      "bytes": 2283795,
+      "sha256": "2265f05796cb9de5af18c904e84e6bf6e70da4a056c08acffd5cbbbd66ba3e7c"
     },
     {
       "name": "布朗温",
