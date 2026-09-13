@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "image_count": 65,
   "portrait_count": 61,
   "scene_count": 4,
@@ -353,8 +353,8 @@
       "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E5%B8%83%E9%9B%B7%E7%89%B9%C2%B7%E6%96%AF%E7%89%B9%E8%B5%96%E5%85%8B.png",
       "width": 1024,
       "height": 1536,
-      "bytes": 2424877,
-      "sha256": "99d46f9cec31e944a459b89df082eef5f6a44393fdff9730392ccb2da8ee7ea1"
+      "bytes": 2500490,
+      "sha256": "a280d42c27c4940e94873e013129a8f838778235a86016465cbccb11f0fab510"
     },
     {
       "name": "凯茜·格伦斯",
