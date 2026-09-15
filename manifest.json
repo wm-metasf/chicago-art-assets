@@ -1,7 +1,7 @@
 {
-  "updated": "2026-09-13",
-  "image_count": 65,
-  "portrait_count": 61,
+  "updated": "2026-09-15",
+  "image_count": 66,
+  "portrait_count": 62,
   "scene_count": 4,
   "base_url": "https://wm-metasf.github.io/chicago-art-assets/",
   "images": [
@@ -849,6 +849,19 @@
       "height": 1536,
       "bytes": 2201331,
       "sha256": "f248a3acf627609cf98a729dd6c731451e267bb729593d1a55e77cb3a1b354f9"
+    },
+    {
+      "name": "康斯坦莎·德·维拉尔",
+      "uid": 2220,
+      "kind": "portrait",
+      "title": "囚衣立绘（苏醒形象参考）",
+      "path": "portraits/康斯坦莎·德·维拉尔.png",
+      "url": "https://wm-metasf.github.io/chicago-art-assets/portraits/%E5%BA%B7%E6%96%AF%E5%9D%A6%E8%8E%8E%C2%B7%E5%BE%B7%C2%B7%E7%BB%B4%E6%8B%89%E5%B0%94.png",
+      "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/portraits/%E5%BA%B7%E6%96%AF%E5%9D%A6%E8%8E%8E%C2%B7%E5%BE%B7%C2%B7%E7%BB%B4%E6%8B%89%E5%B0%94.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 2487663,
+      "sha256": "449823614e5ce9ca9747673001ddd99ac36529bceeeca8230c759d48aec0c245"
     }
   ]
 }
