@@ -1,8 +1,8 @@
 {
   "updated": "2026-09-15",
-  "image_count": 66,
+  "image_count": 67,
   "portrait_count": 62,
-  "scene_count": 4,
+  "scene_count": 5,
   "base_url": "https://wm-metasf.github.io/chicago-art-assets/",
   "images": [
     {
@@ -862,6 +862,19 @@
       "height": 1536,
       "bytes": 2160048,
       "sha256": "a28f8435bf3262396d1ec1424828c8e5b2dc666454388ad5727cca52d0f7a194"
+    },
+    {
+      "name": "沈知微",
+      "uid": null,
+      "kind": "scene",
+      "title": "羞怯牵手",
+      "path": "scenes/沈知微_羞怯牵手.png",
+      "url": "https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E7%BE%9E%E6%80%AF%E7%89%B5%E6%89%8B.png",
+      "raw_url": "https://raw.githubusercontent.com/wm-metasf/chicago-art-assets/main/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E7%BE%9E%E6%80%AF%E7%89%B5%E6%89%8B.png",
+      "width": 1024,
+      "height": 1536,
+      "bytes": 1973797,
+      "sha256": "de79e768ba915d07b3ee22d3db88b1b3af14e0fc446e5c414dcf94bff67907bf"
     }
   ]
 }

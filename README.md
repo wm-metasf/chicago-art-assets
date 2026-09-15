@@ -1,6 +1,6 @@
 # 芝加哥夜幕图片库
 
-共 65 张图片：61 张人物立绘、4 张沈知微情境图。图片文件名和路径均不含版本号。
+共 67 张图片：62 张人物立绘、5 张沈知微情境图。图片文件名和路径均不含版本号。
 
 [机器可读清单](manifest.json)记录图片直链、尺寸、大小与 SHA256。原始 PNG 未压缩、未重绘。
 
@@ -79,8 +79,11 @@
 | 沈知微 | 宴会独处 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E5%AE%B4%E4%BC%9A%E7%8B%AC%E5%A4%84.png) |
 | 沈知微 | 教堂微笑 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E6%95%99%E5%A0%82%E5%BE%AE%E7%AC%91.png) |
 
+| 沈知微 | 羞怯牵手 | [查看图片](https://wm-metasf.github.io/chicago-art-assets/scenes/%E6%B2%88%E7%9F%A5%E5%BE%AE_%E7%BE%9E%E6%80%AF%E7%89%B5%E6%89%8B.png) |
+
 ## 使用说明
 
 复制表格中的图片直链到支持 HTTPS 图片地址的界面即可使用。`manifest.json` 同时提供 GitHub Pages 与原始文件地址。
 
 图片为 AI 生成的私人编年史配图；角色名称或设定不因此转变为原创授权素材。公开仓库仅保存选用图片与索引，生成提示词、私有路径和剧情资料保留在本地。
+
